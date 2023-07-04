@@ -7,7 +7,7 @@ It’s magic in a bottle!
 
 ## Features
 
-    ⁃ __Existing features__
+- __Existing features__
     Navigation menu
 
 This is on the main page and is responsive.
@@ -15,8 +15,8 @@ It will allow you to go to the different sections on the page.
 
 ## Features left to implement
 
-    ⁃ __Setting up pages as individuals__
-    ⁃ __Having another main image on homepage and with a transparency box with test inside.__      
+- __Setting up pages as individuals__
+- __Having another main image on homepage and with a transparency box with test inside.__
     
 ## Sketching & Prototyping
 
@@ -24,8 +24,8 @@ It will allow you to go to the different sections on the page.
 
 ## Testing
 
-    ⁃ __ I have used preview in all the common webb browsers and checked them with different screen sizes.__
-    ⁃ __I ran into problem with the fist sketch when I try to implement it in html and css code. My solution was to simplify it and bring it down to basics but still maintaining the same goals with the project.__
+    - I have used preview in all the common webb browsers and checked them with different screen sizes.__
+    - I ran into problem with the fist sketch when I try to implement it in html and css code. My solution was to simplify it and bring it down to basics but still maintaining the same goals with the project.__
 
 ## Validator
 
