@@ -1,0 +1,283 @@
+
+
+
+/*  main page settings */
+
+body {
+  background: white;
+  font-family: Myriad, sans-serif;
+	
+}
+
+/*  the different areas settings */
+
+
+div {
+	
+    display:flex;
+    flex-direction:column;
+    width: 50%;
+	height: 10%;
+	padding-top: 1%;
+	border-radius: 3%;
+	
+	
+}
+/*  menu settings */
+
+
+p .menu {
+	margin-bottom: 2%;
+	margin-left: 2%;
+	text-align: center;
+
+}
+
+/*  image settings */
+
+
+.main {
+	width: 100%;
+	margin-left: 2%;
+
+}
+
+/*  links settings */
+
+
+ a {
+	text-decoration: none;
+	color: black;
+	
+	font-weight: 600;
+	font-size: 0.9rem ; 
+
+}
+
+
+/*  header settings */
+
+
+h1 {
+	color: black;
+	font-size: 1.5rem ; 
+	margin-left: 5%;
+}
+
+
+/*  navigation links settings */
+
+nav > a {
+	text-decoration: none;
+	color: black;
+	padding-top: 10%;
+	margin-bottom: 25%;
+	padding-left:2%;
+	font-weight: 600;
+	font-size: 1rem ; 
+
+}
+
+nav > a:hover {
+	color: black;
+	font-weight: 900;
+	font-size: 1.5rem ; 
+	
+	
+}
+
+
+/*  old code first trial 
+
+.box  {
+	width: 70%;
+	height: 90%;
+	background-color: #3F5F5E;
+    opacity: 0.6;
+	border-radius: 3%;
+	margin-left: 10%;
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+
+*/
+
+
+
+
+/*  span for images settings */
+
+span{
+	width: 80%;
+	border-radius: 3%;
+	margin-top: 2%;
+	
+}
+
+/*  text settings */
+
+
+text {
+	padding-left: 5.5%;
+	padding-right: 5.5%;
+	color: black;
+	font-size: 1rem ; 
+}
+
+/*  text paragraph settings */
+
+p {
+	width: 75%;
+	padding-left:5%;
+	padding-right: 5%;
+	padding-bottom: 5%;
+	color: black;
+	font-size: 1rem ; 
+}
+
+/*  footer settings */
+.footer {
+    display: inline-block;
+    padding-right: 1%;
+	padding-left: 1%;
+	padding-top: 1%;
+    vertical-align: top;
+	align-self: center;
+	width: 15%;
+
+    
+}
+
+/*  animation of footer icons */
+
+.fa-spin-hover:hover {
+  -webkit-animation: fa-spin 2s infinite linear;
+  -moz-animation: fa-spin 2s infinite linear;
+  -o-animation: fa-spin 2s infinite linear;
+  animation: fa-spin 2s infinite linear;
+}
+
+
+/*  e- mail form */
+
+label {
+    color:#3F5F5E;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+input[type="text"] {
+  font-size: 25px;
+  height: 35px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #666;
+  border: 2px solid #3F5F5E;
+  border-radius: 5px;
+  background: white;
+  outline: none;
+}
+
+
+/*  MEDIA QUERIES Mobile*/
+@media (min-width: 200px) { 
+
+.footer {
+    position: relative;
+	padding-right: 1%;
+	padding-left: 1%;
+	padding-top: 1%;
+    vertical-align: top;
+	align-self: center;
+	width: 15%;
+   
+    flex-direction: column;
+	}
+	
+	.footer p {
+	text-decoration: none;
+	color: black;
+	
+	font-weight: 600;
+	font-size: 0.7rem ; 
+
+}
+	a {
+	text-decoration: none;
+	color: black;
+	
+	font-weight: 600;
+	font-size: 0.6rem ;  
+}
+
+
+input[type="text"] {
+	
+  font-size: 10px;
+  height: 35px;
+  padding-top: 5px;
+  padding-left: 0px;
+  padding-right: 5px;
+  color: #666;
+  border: 2px solid #3F5F5E;
+  border-radius: 5px;
+  background: white;
+  outline: none;
+}
+	
+	
+	
+	
+	
+}
+
+/*  MEDIA QUERIES Desktop*/
+
+
+@media (min-width: 992px) { 
+	.footer {
+    display: inline-block;
+    padding-right: 1%;
+	padding-left: 1%;
+	padding-top: 1%;
+    vertical-align: top;
+	align-self: center;
+	width: 15%;
+    
+}
+
+		
+.footer p {
+	text-decoration: none;
+	color: black;
+	
+	font-weight: 600;
+	font-size: 0.9rem ; 
+
+    
+}
+	a {
+	text-decoration: none;
+	color: black;
+	
+	font-weight: 600;
+	font-size: 0.9rem ; 
+    
+}
+	
+	input[type="text"] {
+	
+  font-size: 25px;
+  height: 35px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #666;
+  border: 2px solid #3F5F5E;
+  border-radius: 5px;
+  background: white;
+  outline: none;
+}
+	
+	
+
+}
