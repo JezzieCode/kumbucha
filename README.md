@@ -1,39 +1,41 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Kumbucha logo](https://foxyfirecode.com/PO01/logo.png)
 
-Welcome,
+Welcome,Kombucha hopes to bring a healthy drink to the public and would like everybody to become healthier with use of this product.
+It’s magic in a bottle!
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Features
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+    ⁃	__Existing features__
+    Navigation menu
 
-## Codeanywhere Reminders
+This is on the main page and is responsive.
+It will allow you to go to the different sections on the page.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## Features left to implement
 
-`python3 -m http.server`
+    ⁃	__Setting up pages as individuals__
+    ⁃	__Having another main image on homepage and with a transparency box with test inside.__  ## Sketching & Prototyping
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+[Sketch pdf](https://foxyfirecode.com/PO01/sketches.pdf)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## Testing
 
-`http_server`
+    ⁃	__ I have used preview in all the common webb browsers and checked them with different screen sizes.__
+    ⁃	__I ran into problem with the fist sketch when I try to implement it in html and css code. My solution was to simplify it and bring it down to basics but still maintaining the same goals with the project.__
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Validator
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- **HTML** - No errors when validation the code but issues when getting link to work from GitHub to validation. Copied the code directly instead.
+- **CSS** - No errors when validation the code but issues when getting link to work from GitHub to validation. Copied the code directly instead.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Deployment
 
-To log into the Heroku toolbelt CLI:
+[Github](https://github.com/JezzieCode/kumbucha.git)
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Credits
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+Content:
+⁃ [AI] (https://chat.openai.com)
 
----
-
-Happy coding!
+Media:
+⁃ [Free image] (https://www.wallpaperflare.com/germany-waldstetten-zitrone-glas-ananas-blatter-water-wallpaper-eodql/download/2880x1800)
