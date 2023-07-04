@@ -1,6 +1,8 @@
 ![Kumbucha logo](https://foxyfirecode.com/PO01/logo.png)
 
-Welcome,Kombucha hopes to bring a healthy drink to the public and would like everybody to become healthier with use of this product.
+Welcome,
+Kombucha hopes to bring a healthy drink to the public and would like everybody 
+to become healthier with use of this product.
 It’s magic in a bottle!
 
 ## Features
@@ -14,7 +16,9 @@ It will allow you to go to the different sections on the page.
 ## Features left to implement
 
     ⁃	__Setting up pages as individuals__
-    ⁃	__Having another main image on homepage and with a transparency box with test inside.__  ## Sketching & Prototyping
+    ⁃	__Having another main image on homepage and with a transparency box with test inside.__      
+    
+## Sketching & Prototyping
 
 [Sketch pdf](https://foxyfirecode.com/PO01/sketches.pdf)
 
